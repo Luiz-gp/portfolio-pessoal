@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ab2439;
+    color: #0000;
+    font-size: 17px;
+}
+
+header {
+    background-color: #a2b0ad;
+    border-radius: 5px;
+}
+
+nav {
+    display: flex;
+}
+
+#menu-left {
+    margin: 10px;
+}
+
+#menu-left a {
+    text-decoration: none;
+    color: black;
+}
+
+#menu-right {
+    margin: 10px;
+    margin-left: 1175px;
+}
+
+#img {
+    border-radius: 50%;
+    justify-content: center;
+    margin-left:43.2%;
+    margin-top: 50px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    color: black;
+    text-align: center;
+}
